@@ -1,0 +1,16 @@
+.course {
+    width: 70%;
+    height: 250px;
+    background-color: orange;
+    border: 2px solid lightblue;
+    margin: 10px;
+
+}
+.img-container {
+    width: 200px;
+    height: 200px;
+}
+.course-title {
+ 
+    margin-left: 250px;
+}
